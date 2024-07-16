@@ -23,7 +23,7 @@ class Rowpracetice extends StatelessWidget {
                       Text("Aturnw chakma"),
                       Text("Aturnw chakma"),
                       Text("Aturnw chakma"),
-                      Text("Aturnw chakma"),
+                      Text("Aturnw chakmahujjkhkjhkjh"),
                     ],
                   )))),
     );
