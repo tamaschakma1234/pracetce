@@ -21,7 +21,7 @@ class Rowpracetice extends StatelessWidget {
                       Text("Aturnw chakma"),
                       Text("Aturnw chakma"),
                       Text("Aturnw chakma"),
-                      Text("Aturnw chakma"),
+                      Text("Aturnw chhhhhakma"),
                       Text("Aturnw chakma"),
                       Text("Aturnw chakmahujjkhkjhkjh"),
                     ],
